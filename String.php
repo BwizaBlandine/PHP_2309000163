@@ -14,7 +14,7 @@
     echo strlen($sentence);
     echo strlen(0);
 
-    $sentence[4]="m";
+    $sentence[3]="m";
     echo ($sentence);
 
     echo str_replace ("book","a college",$sentence);
